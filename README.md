@@ -8,15 +8,5 @@ A Next.js application using TypeScript, ESLint, and Tailwind CSS to interact wit
 3. Set up GraphQL queries
 4. Configure ApolloProvider in _app.tsx
 
-## Project Structure
-alx-graphql-0x01/
-└── alx-rick-and-morty-app/
-    ├── README.md
-    ├── graphql/
-    │   ├── apolloClient.ts
-    │   └── queries.ts
-    └── pages/
-        └── _app.tsx
-
 ## Development
 Run `npm run dev` and visit http://localhost:3000
